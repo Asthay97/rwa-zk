@@ -73,15 +73,15 @@ AssetGuard is deployed on multiple blockchain networks, offering users flexibili
 
 # UI/UX for the project
 
-![image](https://user-images.githubusercontent.com/.png)
+![image](https://github.com/Asthay97/rwa-zk/blob/main/RWA/screenshots/photo-1.png)
 
-![image](https://user-images.githubusercontent.com/.png)
+![image](https://github.com/Asthay97/rwa-zk/blob/main/RWA/screenshots/photo-2.png)
 
-![image](https://user-images.githubusercontent.com/.png)
+![image](https://github.com/Asthay97/rwa-zk/blob/main/RWA/screenshots/photo-3.png)
 
-![image](https://user-images.githubusercontent.com/.png)
+![image](https://github.com/Asthay97/rwa-zk/blob/main/RWA/screenshots/photo-4.png)
 
-![image](https://user-images.githubusercontent.com/.png)
+![image](https://github.com/Asthay97/rwa-zk/blob/main/RWA/screenshots/photo-5.png)
 
 
 ## Conclusion
